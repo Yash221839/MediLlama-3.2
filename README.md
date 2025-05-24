@@ -102,7 +102,7 @@ Tokenization using LLaMA tokenizer with special medical instruction formatting.
 #### Training Hyperparameters
 
 * **Training regime:** bf16 mixed precision
-* **Learning rate:** 1e-5
+
 
 #### Speeds, Sizes, Times
 
